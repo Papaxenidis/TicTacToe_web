@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1"
+  },
+  "name": "tictaktoe",
+  "version": "1.0.0",
+  "description": "\"a tick tack toe game\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Papaxenidis",
+  "license": "ISC"
+}
